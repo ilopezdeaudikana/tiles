@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 The app component creates a map with random "land" and "water" tiles and adds the ability to add a "water" tile anywhere on the map. Both when generating the map and when adding / removing a water tile, is not allowed to have a water tile completely surrounded by "land" tiles.
 
+### TODO
+- Remove functionality and click functionality are not there yet
+- Add tests
+- Improve styles, add modules
+
 ## Available Scripts
 
 In the project directory, you can run:
